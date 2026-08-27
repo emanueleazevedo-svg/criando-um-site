@@ -1,6 +1,6 @@
 body{
-  background-color: seashell;
-  color: maroon;
+  background-color: #E1E50B;
+  color: #274A14;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -29,7 +29,7 @@ a:hover{
 }
 body.modo_escuro {
   background-color: black;
-  color: seashell;
+  color: rgb(12, 167, 27);
 }
 
 
