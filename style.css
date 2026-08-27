@@ -25,7 +25,7 @@ a{
   text-align: center;
 }
 a:hover{
-  color: blue;
+  color: rgb(27, 27, 254);
 }
 body.modo_escuro {
   background-color: black;
